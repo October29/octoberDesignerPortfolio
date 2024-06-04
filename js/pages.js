@@ -7,11 +7,11 @@ disenoWeb.addEventListener('click', fDisenoWeb);
 illustration.addEventListener('click', fIllustration);
 
 function fBrandDesign() {
-    window.location.href = "../page/brandDesign.html";
+    window.location.href = "./page/brandDesign.html";
 }
 function fDisenoWeb() {
-    window.location.href = "../page/diseñoweb.html";
+    window.location.href = "./page/diseñoweb.html";
 }
 function fIllustration() {
-    window.location.href = "../page/ilustracion.html";
+    window.location.href = "./page/ilustracion.html";
 }
